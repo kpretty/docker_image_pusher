@@ -1,2 +1,3 @@
 bitnami/clickhouse
 clickhouse/clickhouse-keeper
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
