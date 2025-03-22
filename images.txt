@@ -3,3 +3,4 @@ clickhouse/clickhouse-keeper
 dinkydocker/dinky-standalone-server:1.1.0-flink1.17
 apache/doris:2.0.0_alpha-fe-x86_64
 apache/doris:2.0.0_alpha-be-x86_64
+infiniflow/ragflow:v0.17.2
