@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+infiniflow/ragflow:v0.24.0
